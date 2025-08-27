@@ -6,9 +6,23 @@ I like movies and they are always better with popcorn
 
 I like to watch movies with my family. We like to watch comedy. What do you enjoy?
 
+- comedy
+- horror
+- action
+- thriller
+- sci-fi
+- romance
+
 ## Movie Theatres
 
 The popularity of movie theatres comes and goes. With tech advancement, you can watch movies at home with the whole family for only $5! Wow!
+
+Movie Theatres by Popularity:
+
+1. AMC
+2. The one in Fenton
+3. IMax at the marbles kids museum
+4. Airplane (it's like a movie theatre in the sky)
 
 
 ## Actors
@@ -24,7 +38,15 @@ This is the actor I like. He is one of the highest wealth actors in the world (i
 
 ### To Popcorn or Not?
 
+
 I don't know about you, but I love [popcorn](https://en.wikipedia.org/wiki/Popcorn). My dad and I make it fresh in our whirlypop on the stovetop. Add some salt, butter, and put it in a big mixing bowl, and you've got a happy family night!
+
+I don't know about you, but I love popcorn. My dad and I make it fresh in our whirlypop on the stovetop. Add some salt, butter, and put it in a big mixing bowl, and you've got a happy family night!
+
+- So Popcorn?
+- Or Not?
+
+
 
 ![popcorn in boxes](images/popcorn.jpg)
 *Hoping this popcorn pic makes you hungry*
